@@ -2,7 +2,7 @@
 Hi! I am Breindel Medina, an aspiring programmer. 👋
 ------------------------------------------------------------
 
-Current Project: Battleship Multiplayer Game 🚢
+Current Project: Battleship Multiplayer Game (WIP)🚢
 
 Technicals: React ⚛️, Node.js 📦, Supabase (PostgreSQL) ⚡, Express.JS🚀
 
