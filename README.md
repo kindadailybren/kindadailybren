@@ -8,7 +8,7 @@ Technicals: PHP 🐘, Apache 🌐, MySQL 🗃️ , XAMPP 🛠️
 
 ------------------------------------------------------------
 
-Current Project: Battleship Multiplayer Game (PUT OFF)🚢
+Another Project: Battleship Multiplayer Game (PUT OFF)🚢
 
 Technicals: React ⚛️, Node.js 📦, Supabase (PostgreSQL) ⚡, Express.JS🚀
 <!---
