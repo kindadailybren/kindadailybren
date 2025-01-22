@@ -12,10 +12,12 @@ Technicals: React ⚛️, Node.js 📦, WebSockets 🔌, Express.JS🚀
 Finished Projects: 
 
 Album Catalogue/Tracking Webpage🎵
+
 Technicals: PHP 🐘, Apache 🌐, MySQL 🗃️ , XAMPP 🛠️
 
 BURBANKZZZ WEBSITE 🧙🧙🧙 
 [burbzzz.vercel.com](https://burbz.vercel.app/)
+
 Technicals: JavaScript , Express.JS 🚀, HTML </>, CSS 🌐
 
 ------------------------------------------------------------
