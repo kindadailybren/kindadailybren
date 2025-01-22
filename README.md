@@ -14,8 +14,7 @@ Finished Projects:
 Album Catalogue/Tracking Webpage🎵
 
 Technicals: PHP 🐘, Apache 🌐, MySQL 🗃️ , XAMPP 🛠️
-
----------------
+\
 BURBANKZZZ WEBSITE 🧙🧙🧙 
 [burbzzz.vercel.com](https://burbz.vercel.app/)
 
