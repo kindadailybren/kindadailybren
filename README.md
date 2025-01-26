@@ -15,7 +15,7 @@ Finished Projects:
 Technicals: PHP 🐘, Apache 🌐, MySQL 🗃️ , XAMPP 🛠️\
 \
 ---BURBANKZZZ WEBSITE 🧙🧙🧙 ---\
-[burbzzz.vercel.com](https://burbz.vercel.app/)\
+[burbz.vercel.com](https://burbz.vercel.app/)\
 Technicals: JavaScript , Express.JS 🚀, HTML </>, CSS 🌐
 
 ------------------------------------------------------------
