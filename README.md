@@ -4,3 +4,5 @@
     <img alt="bren's GitHub Profile README" src="https://github.com/kindadailybren/kindadailybren/blob/main/dark_mode.svg">
   </picture>
 </a>
+
+My Hobbies
