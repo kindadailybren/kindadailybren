@@ -23,8 +23,8 @@ text, tspan {white-space: pre;}
 <tspan x="15" y="90">'WMMMMK'.   ':xx000000000Oc'    'OMMMM</tspan>
 <tspan x="15" y="110">.MMMWMMWo' 'xl;;dx000000cO,o,..cNMMWMM</tspan>
 <tspan x="15" y="130">     'WMMK.OOldloo000000dlO;O'OMMM:     </tspan>
-<tspan x="15" y="150">       dMk....................oMK       </tspan>
-<tspan x="15" y="170">         '......................        </tspan>
+<tspan x="15" y="150" class="delColor">       dMk....................oMK       </tspan>
+<tspan x="15" y="170" class="delColor">         '......................        </tspan>
 <tspan x="15" y="190">   .:ccc:;::::::::::::::::::::;:ccc:.   </tspan>
 <tspan x="15" y="210">         cddddddddddddddddddddl         </tspan>
 <tspan x="15" y="230">        .MMMWo''lNMMMK:';OMMM,         </tspan>
