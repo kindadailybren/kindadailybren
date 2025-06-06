@@ -1,4 +1,26 @@
-
+ ..',..                                     .,,..    
+   .;XMMWo.            .,'''''','            .:NMMNl.   
+ '::KMMMMN         '';coxkO000Oxoc;',         kMMMMW::'.
+.KMMMMMMMx'.     .;oxd00000000000000d:'.    .'lMMMMMMMN'
+ XMMMMWMMMWx;' .;kx,;:,Oo00000000xcOl,d:. .,dNMMMWWMMMW.
+       .XMMMM0.o00:koc0;o000000000o:0k,xx.xMMMMW,       
+          OMMd............................:MMX          
+            :..............................l            
+    .,:ccccc;;:::::::::::::::::::::::::::::;cccccc;.    
+             lddddddddddddddddddddddddddddo.            
+             'MMMMMXl,.,lKMMMMMKc,.,lXMMMMd             
+              0MMMO       OMMMk       0MMN              
+               0MMo       lMMMc       dMN               
+                .WWl.   .cWMMMWc    .oW:                
+                   KMXKXMMK:;kMMMXKNX.                  
+                 ',,ckk0NMWOkNMWKkkd';'                 
+               ':kX'WMM;OkkdckkO,WMM:kKc'.              
+            .'lKMMc0kkk'O00xc00O'kkkK;MMNo'.            
+      'ldo:,oNMMMM,xNMW:WNXklXXWxOMWk.WMMMWx;;odo,.     
+      XMMMMMMMMN,  XkkdlkkOd:OkkdckkX. .XMMMMMMMMW.     
+      lMMMMMMMx    oMMMMMWWNNWWMMMMMK    cMMMMMMM0      
+         OMMMMW     dMMMMMMMMMMMMMMK     KMMMMX.        
+          kWMX.       .KWMMMMMMWK,        KWW0 
 Hi! I am Breindel Medina, an aspiring programmer. 👋
 
 ------------------------------------------------------------
