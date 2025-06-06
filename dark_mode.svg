@@ -59,13 +59,13 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Email</tspan>.<tspan class="key">Work</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">bomedina1@up.edu.ph</tspan>
 <tspan x="390" y="330" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Breindel Medina</tspan>
 <tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Facebook</tspan>:<tspan class="cc"> ................................ </tspan><tspan class="value">Breindel Medina</tspan>
-<tspan x="390" y="370">- Projects</tspan> ——————————————————————————————————————————————-—-
-<tspan x="390" y="390" class="cc">. </tspan>
+<tspan x="390" y="370" class="cc">. </tspan>
+<tspan x="390" y="390">- Projects</tspan> ——————————————————————————————————————————————-—-
 <tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Battleship Clone (WIP)</tspan>:<tspan class="cc"> .................................. </tspan>
-<tspan x="390" y="430" class="cc">. </tspan><tspan class="value">Technologies: React, Vite, WebSockets</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">Breindel Medina</tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="value">Technologies: React, Vite, WebSockets</tspan><tspan class="cc"> .................. </tspan><tspan class="value">Breindel Medina</tspan>
 <tspan x="390" y="450" class="cc">. </tspan><tspan class="key">Grocery Tracker</tspan>:<tspan class="cc"> ......................................... </tspan>
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="value">Technologies: Vue, Supabase, Vite, Vercel</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">Breindel Medina</tspan>
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">PokeDex</tspan>:<tspan class="cc"> ............................................... </tspan>
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="value">Technologies: HTML, CSS, JavaScript</tspan><tspan class="cc"> .............................. </tspan><tspan class="value">Breindel Medina</tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="value">Technologies: Vue, Supabase, Vite, Vercel</tspan><tspan class="cc"> .............. </tspan><tspan class="value">Breindel Medina</tspan>
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">PokeDex</tspan>:<tspan class="cc"> ................................................. </tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="value">Technologies: HTML, CSS, JavaScript</tspan><tspan class="cc"> .................... </tspan><tspan class="value">Breindel Medina</tspan>
 </text>
 </svg>
