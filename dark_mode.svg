@@ -15,32 +15,32 @@ size-adjust: 109%;
 .cc {fill: #616e7f;}
 text, tspan {white-space: pre;}
 </style>
-<rect width="1100px" height="530px" fill="#161b22" rx="15"/>
+<rect width="985px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">    ..',..                                     .,,..  </tspan>
-<tspan x="15" y="50">   .;XMMWo.            .,'''''','            .:NMMNl.   </tspan>
-<tspan x="15" y="70"> '::KMMMMN         '';coxkO000Oxoc;',         kMMMMW::'.</tspan>
-<tspan x="15" y="90">.KMMMMMMMx'.     .;oxd00000000000000d:'.    .'lMMMMMMMN'</tspan>
-<tspan x="15" y="110"> XMMMMWMMMWx;' .;kx,;:,Oo00000000xcOl,d:. .,dNMMMWWMMMW.</tspan>
-<tspan x="15" y="130">      .XMMMM0.o00:koc0;o000000000o:0k,xx.xMMMMW,       </tspan>
-<tspan x="15" y="150">         OMMd............................:MMX          </tspan>
-<tspan x="15" y="170">           :..............................l            </tspan>
-<tspan x="15" y="190">   .,:ccccc;;:::::::::::::::::::::::::::::;cccccc;.    </tspan>
-<tspan x="15" y="210">            lddddddddddddddddddddddddddddo.           </tspan>
-<tspan x="15" y="230">            'MMMMMXl,.,lKMMMMMKc,.,lXMMMMd             </tspan>
-<tspan x="15" y="250">             0MMMO       OMMMk       0MMN              </tspan>
-<tspan x="15" y="270">              0MMo       lMMMc       dMN               </tspan>
-<tspan x="15" y="290">               .WWl.   .cWMMMWc    .oW:                </tspan>
-<tspan x="15" y="310">                  KMXKXMMK:;kMMMXKNX.                  </tspan>
-<tspan x="15" y="330">               ',,ckk0NMWOkNMWKkkd';'                 </tspan>
-<tspan x="15" y="350">             ':kX'WMM;OkkdckkO,WMM:kKc'.              </tspan>
-<tspan x="15" y="370">          .'lKMMc0kkk'O00xc00O'kkkK;MMNo'.            </tspan>
-<tspan x="15" y="390">    'ldo:,oNMMMM,xNMW:WNXklXXWxOMWk.WMMMWx;;odo,.     </tspan>
-<tspan x="15" y="410">    XMMMMMMMMN,  XkkdlkkOd:OkkdckkX. .XMMMMMMMMW.     </tspan>
-<tspan x="15" y="430">    lMMMMMMMx    oMMMMMWWNNWWMMMMMK    cMMMMMMM0      </tspan>
-<tspan x="15" y="450">       OMMMMW     dMMMMMMMMMMMMMMK     KMMMMX.        </tspan>
-<tspan x="15" y="470">        kWMX.       .KWMMMMMMWK,        KWW0          </tspan>
-<tspan x="15" y="490">                        ',.                          </tspan>
+<tspan x="15" y="30">   .',.                          .''.   </tspan>
+<tspan x="15" y="50">  .dMM0.         ,'''',.        .xMMO.  </tspan>
+<tspan x="15" y="70">.,:WMMM       ';lxO00Oxl:'.      NMMMc;.</tspan>
+<tspan x="15" y="90">'WMMMMK'.   ':xx000000000Oc'    'OMMMMM:</tspan>
+<tspan x="15" y="110">.MMMWMMWo' 'xl;;dx000000cO,o,..cNMMWMMM'</tspan>
+<tspan x="15" y="130">     'WMMK.OOldloo000000dlO;O'OMMM:     </tspan>
+<tspan x="15" y="150">       dMk....................oMK       </tspan>
+<tspan x="15" y="170">         '......................        </tspan>
+<tspan x="15" y="190">   .:ccc:;::::::::::::::::::::;:ccc:.   </tspan>
+<tspan x="15" y="210">         cddddddddddddddddddddl         </tspan>
+<tspan x="15" y="230">        .MMMWo''lNMMMK:';OMMM,         </tspan>
+<tspan x="15" y="250">         KMM:    .MMX     OMW          </tspan>
+<tspan x="15" y="270">          WM.     MM0     oM.          </tspan>
+<tspan x="15" y="290">           NK.  .kMMMc   ;N.           </tspan>
+<tspan x="15" y="310">            ,WXXMWc:NMWKNc             </tspan>
+<tspan x="15" y="330">           .;:kONMOOMW0kc;.            </tspan>
+<tspan x="15" y="350">         .,OoXMkdkxokklMWc0;.          </tspan>
+<tspan x="15" y="370">        'oWMlkk:k0ko0O;kklMMx'         </tspan>
+<tspan x="15" y="390">   .ld::XMMW,XMoWXOdXWoMN;XMMNc;do,    </tspan>
+<tspan x="15" y="410">   kMMMMMMd ,OkckkdlOkckOc :MMMMMMK    </tspan>
+<tspan x="15" y="430">   'MMMMMo   MMMMWNNWMMMM.  :MMMMMl    </tspan>
+<tspan x="15" y="450">     ;MMM0   ;MMMMMMMMMMo   dMMMo      </tspan>
+<tspan x="15" y="470">      oWX.     oWMMMMWO      KWO       </tspan>
+<tspan x="15" y="490">                  ''                   </tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30">bren@arch</tspan> -———————————————————————————————————————————-—-
