@@ -13,19 +13,20 @@ size-adjust: 109%;
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
+.yellow {fill: #B58E45}
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="530px" fill="#161b22" rx="15"/>
 <text x="15" y="30" fill="#c9d1d9" class="ascii">
-<tspan x="15" y="30">   .',.                          .''.   </tspan>
-<tspan x="15" y="50">  .dMM0.         ,'''',.        .xMMO.  </tspan>
-<tspan x="15" y="70">.,:WMMM       ';lxO00Oxl:'.      NMMMc</tspan>
-<tspan x="15" y="90">'WMMMMK'.   ':xx000000000Oc'    'OMMMM</tspan>
-<tspan x="15" y="110">.MMMWMMWo' 'xl;;dx000000cO,o,..cNMMWMM</tspan>
-<tspan x="15" y="130">     'WMMK.OOldloo000000dlO;O'OMMM:     </tspan>
-<tspan x="15" y="150" class="delColor">       dMk....................oMK       </tspan>
-<tspan x="15" y="170" class="delColor">         '......................        </tspan>
-<tspan x="15" y="190">   .:ccc:;::::::::::::::::::::;:ccc:.   </tspan>
+<tspan x="15" y="30">   .',.           <tspan class="yellow">.''.</tspan>   </tspan>
+<tspan x="15" y="50">  .dMM0.         <tspan class="yellow">,'''',.</tspan>        .xMMO.  </tspan>
+<tspan x="15" y="70">.,:WMMM       <tspan class="yellow">';lxO00Oxl:'.</tspan>      NMMMc</tspan>
+<tspan x="15" y="90">'WMMMMK'.   <tspan class="yellow">':xx000000000Oc'</tspan>    'OMMMM</tspan>
+<tspan x="15" y="110">.MMMWMMWo' <tspan class="yellow">'xl;;dx000000cO,o,</tspan>..cNMMWMM</tspan>
+<tspan x="15" y="130">     'WMMK<tspan class="yellow">.OOldloo000000dlO;O</tspan>'OMMM:     </tspan>
+<tspan x="15" y="150">       dMk<tspan class="delColor">....................</tspan>oMK       </tspan>
+<tspan x="15" y="170">         '<tspan class="delColor">......................</tspan>        </tspan>
+<tspan x="15" y="190">   <tspan class="yellow">.:ccc:;::::::::::::::::::::;:ccc:.</tspan>   </tspan>
 <tspan x="15" y="210">         cddddddddddddddddddddl         </tspan>
 <tspan x="15" y="230">        .MMMWo''lNMMMK:';OMMM,         </tspan>
 <tspan x="15" y="250">         KMM:    .MMX     OMW          </tspan>
