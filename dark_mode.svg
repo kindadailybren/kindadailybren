@@ -64,11 +64,11 @@ text, tspan {white-space: pre;}
 
 <!-- Third Block -->
 <tspan x="390" y="330">- Projects</tspan> ——————————————————————————————————————————————-—-
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Battleship Clone (WIP)</tspan>:<tspan class="cc"> .................................. </tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="value">Technologies: React, Vite, WebSockets</tspan><tspan class="cc"> .................... </tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Grocery Tracker</tspan>:<tspan class="cc"> ......................................... </tspan>
-<tspan x="390" y="430" class="cc">. </tspan><tspan class="value">Technologies: Vue, Supabase, Vite, Vercel</tspan><tspan class="cc"> ................ </tspan>
-<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">PokeDex</tspan>:<tspan class="cc"> ................................................. </tspan>
-<tspan x="390" y="470" class="cc">. </tspan><tspan class="value">Technologies: HTML, CSS, JavaScript</tspan><tspan class="cc"> ...................... </tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Ohara</tspan>:<tspan class="cc"> ................................................... </tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="value">Technologies: FastAPI, PostgreSQL, AWS CDK, Python</tspan><tspan class="cc"> ....... </tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">Obsidian MCP Server</tspan>:<tspan class="cc"> ..................................... </tspan>
+<tspan x="390" y="430" class="cc">. </tspan><tspan class="value">Technologies: TypeScript, Node.js, MCP, Cloudflare</tspan><tspan class="cc"> ....... </tspan>
+<tspan x="390" y="450" class="cc">. </tspan><tspan class="key">StudySurf</tspan>:<tspan class="cc"> ............................................... </tspan>
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="value">Technologies: AWS Serverless, Bedrock, DynamoDB, CDK</tspan><tspan class="cc"> ..... </tspan>
 </text>
 </svg>
